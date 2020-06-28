@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21610" started-at="2020-06-22T12:44:34Z" finished-at="2020-06-22T12:44:55Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="question3.question3ATACalc()[pri:0, instance:pkgInterview.AutomationInterviewAll.question3@6fd02e5]" name="question3ATACalc" class="pkgInterview.AutomationInterviewAll.question3"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test name="Default test" duration-ms="21610" started-at="2020-06-22T12:44:34Z" finished-at="2020-06-22T12:44:55Z">
+      <class name="pkgInterview.AutomationInterviewAll.question3">
+        <test-method status="PASS" signature="generateExtentReport()[pri:0, instance:pkgInterview.AutomationInterviewAll.question3@6fd02e5]" name="generateExtentReport" is-config="true" duration-ms="957" started-at="2020-06-22T12:44:34Z" finished-at="2020-06-22T12:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateExtentReport -->
+        <test-method status="PASS" signature="question3ATACalc()[pri:0, instance:pkgInterview.AutomationInterviewAll.question3@6fd02e5]" name="question3ATACalc" duration-ms="20575" started-at="2020-06-22T12:44:35Z" finished-at="2020-06-22T12:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question3ATACalc -->
+      </class> <!-- pkgInterview.AutomationInterviewAll.question3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
